@@ -1,15 +1,37 @@
 body   {
-    background-color: blanchedalmond;
+    background-color: rgb(255, 0, 0);
 }
 p{
     text-align: center;
 }
 strong{
-    color: rgb(255, 0, 0);
+    color: rgb(0, 255, 55);
 }
 h1{
     text-align: center;
 }
 .imagem-banner{
     text-align: center;
+}
+.itens {
+    font-style: italic;
+    text-align: left;
+}
+
+.beneficios {
+    background: #0066ff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 30%;
 }
